@@ -1,0 +1,67 @@
+{
+  "frf": {
+    "password": "b2b268b0d6f68555830d98a27abab9eab1cf9e5ee910acab3b44949ab89f0b72",
+    "prefs": {
+      "trip_type": "beatch",
+      "budget": "medium",
+      "activities": [
+        "swimming"
+      ]
+    },
+    "ratings": {}
+  },
+  "asd": {
+    "password": "688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6",
+    "preferences": {
+      "trip_type": "beach",
+      "budget": {
+        "choice": "low ($0-$300)",
+        "price_range": [
+          0,
+          300
+        ]
+      },
+      "activities": [
+        "surfing",
+        "snorkeling",
+        "spa"
+      ],
+      "accommodation": "hotel",
+      "cuisine": [
+        "local",
+        "vegetarian",
+        "seafood"
+      ],
+      "travel_season": "summer"
+    },
+    "ratings": {
+      "d4": 5
+    }
+  },
+  "mariana": {
+    "password": "37fae3dd4d7f6538fcf1ac2fac9432b2301916be54b7a23ce08341119263bae9",
+    "preferences": {
+      "trip_type": "beach",
+      "budget": {
+        "choice": "medium ($300-$500)",
+        "price_range": [
+          300,
+          500
+        ]
+      },
+      "activities": [
+        "surfing"
+      ],
+      "accommodation": "hotel",
+      "cuisine": [
+        "local",
+        "vegetarian",
+        "seafood"
+      ],
+      "travel_season": "summer"
+    },
+    "ratings": {
+      "d2": 5
+    }
+  }
+}
